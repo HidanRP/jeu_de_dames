@@ -1,1 +1,1 @@
-# jeu_de_dames
+# jeu_snake
